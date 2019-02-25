@@ -52,3 +52,11 @@
 记录：
   1）springmvc中的视图解析器
 ```
+
+### component
+```
+音：[kəmˈpəʊnənt] 
+译：组件
+记录：
+  1）spring中自动扫描bean类，component-scan
+```
